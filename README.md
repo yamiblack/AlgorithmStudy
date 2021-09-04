@@ -7,6 +7,8 @@
 - [⭐교수 이주형⭐](https://github.com/yamiblack)
 - [⭐조교 서예진⭐](https://github.com/yejin25)
 
+<br>
+
 ## 규칙
 1. 일주일에 3문제씩
     - 스터디 전까지 못하면 벌금 문제당 1000원
@@ -16,10 +18,14 @@
 3. 사정 있으면 미리 말하기 -> 벌금X, 
     - 해당 주차 리뷰 전까지 풀기 (최대 2일)
 
+<br>
+
 ## 스터디 내용
 - [programmers](https://programmers.co.kr/learn/challenges) : Java
     - [x] Level1
     - [ ] Level2 (진행 중)
+
+<br>
 
 ## 발표 예정
 - 2021년 09월 11일 토요일 오후 10시
