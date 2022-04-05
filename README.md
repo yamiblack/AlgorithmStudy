@@ -12,7 +12,7 @@
 ## 코드 리뷰 일정
 <details>
     <summary>일정 보기</summary>
-    1. 2022년 04월 13일 수요일 20시
+    1. 2022년 04월 13일 수요일 20시 : <a href="https://www.acmicpc.net/problem/13460">구슬 탈출2</a>, <a href="https://www.acmicpc.net/problem/12100">2048 (Easy)</a>, <a href="https://www.acmicpc.net/problem/3190">뱀</a>
 </details>
 
 <br>
