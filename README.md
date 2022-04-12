@@ -45,7 +45,8 @@
 - [programmers](https://programmers.co.kr/learn/challenges) : Java 
     - [x] Level1
     - [ ] Level2 (진행 중)
-- [Baekjoon 삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152) : Java
+- [Baekjoon](https://www.acmicpc.net/) : Java
+    - [ ] [삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152) (진행 중)
 
 <br>
 
