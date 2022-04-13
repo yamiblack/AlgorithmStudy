@@ -49,7 +49,7 @@
 ## 스터디 일정
 1. [2022년 04월 13일 수요일 21시](https://www.acmicpc.net/group/practice/view/14425/1) : [구슬 탈출2](https://www.acmicpc.net/problem/13460), [2048(Easy)](https://www.acmicpc.net/problem/12100), [뱀](https://www.acmicpc.net/problem/3190)
 
-2. [2022년 04월 20일 수요일 20시](https://www.acmicpc.net/group/practice/view/14425/2) :[시험 감독](https://www.acmicpc.net/problem/13458), [주사위 굴리기](https://www.acmicpc.net/problem/14499), [테트로미노](https://www.acmicpc.net/problem/14500)
+2. [2022년 04월 20일 수요일 20시](https://www.acmicpc.net/group/practice/view/14425/2) : [시험 감독](https://www.acmicpc.net/problem/13458), [주사위 굴리기](https://www.acmicpc.net/problem/14499), [테트로미노](https://www.acmicpc.net/problem/14500)
 
 <br />
 
