@@ -1,6 +1,16 @@
 # 알고리즘 스터디
 - [Gather 입장](https://app.gather.town/app/eJpFuAmrssti9KgG/kim)
-- [스터디 일정](#스터디-일정)
+
+<details>
+<summary>스터디 일정</summary>
+<div markdown="1">
+
+1. [2022년 04월 13일 수요일 21시](https://www.acmicpc.net/group/practice/view/14425/1) : [구슬 탈출2](https://www.acmicpc.net/problem/13460), [2048(Easy)](https://www.acmicpc.net/problem/12100), [뱀](https://www.acmicpc.net/problem/3190)
+
+2. [2022년 04월 20일 수요일 20시](https://www.acmicpc.net/group/practice/view/14425/2) : [시험 감독](https://www.acmicpc.net/problem/13458), [주사위 굴리기](https://www.acmicpc.net/problem/14499), [테트로미노](https://www.acmicpc.net/problem/14500)
+
+</div>
+</details>
 
 <br />
 
@@ -44,13 +54,6 @@
     - [ ] Level2 (진행 중)
 - [Baekjoon](https://www.acmicpc.net/) : Java
     - [ ] [삼성 SW 역량 테스트 기출 문제](https://www.acmicpc.net/workbook/view/1152) (진행 중)
-
-<br />
-
-## 스터디 일정
-1. [2022년 04월 13일 수요일 21시](https://www.acmicpc.net/group/practice/view/14425/1) : [구슬 탈출2](https://www.acmicpc.net/problem/13460), [2048(Easy)](https://www.acmicpc.net/problem/12100), [뱀](https://www.acmicpc.net/problem/3190)
-
-2. [2022년 04월 20일 수요일 20시](https://www.acmicpc.net/group/practice/view/14425/2) : [시험 감독](https://www.acmicpc.net/problem/13458), [주사위 굴리기](https://www.acmicpc.net/problem/14499), [테트로미노](https://www.acmicpc.net/problem/14500)
 
 <br />
 
