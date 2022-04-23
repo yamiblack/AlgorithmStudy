@@ -32,7 +32,7 @@
     - 사정이 있으면 유동적으로 변경
     - 문제당 Git에 commit & push
     - Git에 commit & push 후 iMessage에 완료여부 표시
-    > iMessage 내용 : 문제명 완료
+        > iMessage 내용 : 문제명 완료
 3. 알고리즘 발표 후 차주 관련 문제 풀이 
 
     <details>   
