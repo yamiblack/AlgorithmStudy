@@ -1,5 +1,5 @@
 # 알고리즘 스터디
-- [Gather 입장](https://app.gather.town/app/eJpFuAmrssti9KgG/kim)
+- [Gather 입장](https://app.gather.town/invite?token=7yyyJnMJIylIBO2eISnDzYBXt1Ixhogo)
 
 <br />
 
