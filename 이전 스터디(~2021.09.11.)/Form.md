@@ -1,6 +1,4 @@
-# [보물섬](https://www.acmicpc.net/problem/2589)
-
-![image](https://user-images.githubusercontent.com/50551349/165548517-c75a0b7b-a69a-4066-9dd3-d9d829b79c4c.png)
+# 제목
 
 - [강지웅](#강지웅)
 - [서예진](#서예진)
