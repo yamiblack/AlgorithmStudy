@@ -1,5 +1,6 @@
-# 알고리즘 스터디
+# 알고리즘 스터디 📚
 - [Gather 입장](https://app.gather.town/invite?token=7yyyJnMJIylIBO2eISnDzYBXt1Ixhogo)
+- [Notion](https://www.notion.so/AlgorithmMaster-a2953dc6c9b34b1b86f5ca3a7af0f86d)
 
 <br />
 
