@@ -102,7 +102,7 @@
 
     
 <details>
-<summary>2회차 : 2022년 04월 수요일 20시</summary>
+<summary>2회차 : 2022년 04월 20일 수요일 20시</summary>
 <div markdown="1">
 
 - [시험 감독](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/2%ED%9A%8C%EC%B0%A8_2022.04.20_%EC%8B%9C%ED%97%98%20%EA%B0%90%EB%8F%85.md)
