@@ -43,16 +43,16 @@
 
    - **2022년 04월 26일 화요일 20시**
       - [x] BFS, DFS, 백트래킹 발표 : [예진][jin]
-   - **2022년 05월 04일 수요일 20시**
-      - [ ] 순열, 조합, 부분집합 발표 : [윤영][zeong]
-      - [ ] BFS, DFS, 백트래킹 문제 풀이
-   - **2022년 05월 10일 화요일 20시**
+   - **2022년 06월 08일 수요일 20시**
+      - [x] 순열, 조합, 부분집합 발표 : [윤영][zeong]
+      - [x] BFS, DFS, 백트래킹 문제 풀이
+   - **2022년 06월 14일 화요일 20시**
       - [ ] DP 발표 : [주형][hyung]
       - [ ] 순열, 조합, 부분집합 문제 풀이
-   - **2022년 05월 18일 수요일 20시**
+   - **2022년 06월 22일 수요일 20시**
      - [ ] 다익스트라, 벨먼-포드, 플로이드-와샬 : [나연][yeon]
      - [ ] DP 문제 풀이
-   - **2022년 05월 25일 수요일 20시**
+   - **2022년 06월 29일 수요일 20시**
       - [ ] 프림, 크루스칼, 유니온파인드 : [지웅][woong]
       - [ ] 다익스트라, 벨먼-포드, 플로이드-와샬 문제 풀이
 
@@ -146,6 +146,18 @@
 
 - [미로 탐색](https://github.com/yamiblack/AlgorithmStudy/blob/main/알고리즘%20스터디/5회차_2022.06.08_미로%20탐색.md)
 - [단지번호붙이기](https://github.com/yamiblack/AlgorithmStudy/blob/main/알고리즘%20스터디/5회차_2022.06.08_단지번호붙이기.md)
+
+</div>
+</details>
+
+<details>
+<summary>6회차 : 2022년 06월 14일 화요일 20시</summary>
+<div markdown="1">
+
+- [모든 순열](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/6%ED%9A%8C%EC%B0%A8_2022.06.14_%EB%AA%A8%EB%93%A0%20%EC%88%9C%EC%97%B4.md)
+- [부분수열의 합](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/6%ED%9A%8C%EC%B0%A8_2022.06.14_%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.md)
+- [소문난 칠공주](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/6%ED%9A%8C%EC%B0%A8_2022.06.14_%EC%86%8C%EB%AC%B8%EB%82%9C%20%EC%B9%A0%EA%B3%B5%EC%A3%BC.md)
+   
 
 </div>
 </details>
