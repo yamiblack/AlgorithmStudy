@@ -135,7 +135,6 @@
 - [근손실](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/4%ED%9A%8C%EC%B0%A8_2022.05.04_%EA%B7%BC%EC%86%90%EC%8B%A4.md)
 - [보물섬](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/4%ED%9A%8C%EC%B0%A8_2022.05.04_%EB%B3%B4%EB%AC%BC%EC%84%AC.md)
 - [빛의 경로 사이클](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/4%ED%9A%8C%EC%B0%A8_2022.05.04_%EB%B9%9B%EC%9D%98%20%EA%B2%BD%EB%A1%9C%20%EC%82%AC%EC%9D%B4%ED%81%B4.md)
-- 순열, 조합, 부분조합 발표 : [윤영][zeong]
 
 </div>
 </details>
@@ -146,7 +145,8 @@
 
 - [미로 탐색](https://github.com/yamiblack/AlgorithmStudy/blob/main/알고리즘%20스터디/5회차_2022.06.08_미로%20탐색.md)
 - [단지번호붙이기](https://github.com/yamiblack/AlgorithmStudy/blob/main/알고리즘%20스터디/5회차_2022.06.08_단지번호붙이기.md)
-
+- 순열, 조합, 부분조합 발표 : [윤영][zeong]
+    
 </div>
 </details>
 
@@ -157,8 +157,32 @@
 - [모든 순열](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/6%ED%9A%8C%EC%B0%A8_2022.06.14_%EB%AA%A8%EB%93%A0%20%EC%88%9C%EC%97%B4.md)
 - [부분수열의 합](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/6%ED%9A%8C%EC%B0%A8_2022.06.14_%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9.md)
 - [소문난 칠공주](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/6%ED%9A%8C%EC%B0%A8_2022.06.14_%EC%86%8C%EB%AC%B8%EB%82%9C%20%EC%B9%A0%EA%B3%B5%EC%A3%BC.md)
-   
+- DP 발표 : [주형][hyung]
 
+</div>
+</details>
+
+<details>
+<summary>7회차 : 2022년 06월 22일 수요일 20시</summary>
+<div markdown="1">
+
+- [평범한 배낭](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/7%ED%9A%8C%EC%B0%A8_2022.06.22_%ED%8F%89%EB%B2%94%ED%95%9C%20%EB%B0%B0%EB%82%AD.md)
+- [외판원 순회](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/7%ED%9A%8C%EC%B0%A8_2022.06.22_%EC%99%B8%ED%8C%90%EC%9B%90%20%EC%88%9C%ED%9A%8C.md)
+
+</div>
+</details>
+
+
+<details>
+<summary>8회차 : 2022년 06월 29일 수요일 20시</summary>
+<div markdown="1">
+
+- [바이러스](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/8%ED%9A%8C%EC%B0%A8_2022.06.29_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.md)
+- [유기농배추](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/8%ED%9A%8C%EC%B0%A8_2022.06.29_%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94.md)
+- [다리 놓기](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/8%ED%9A%8C%EC%B0%A8_2022.06.29_%EB%8B%A4%EB%A6%AC%EB%86%93%EA%B8%B0.md)
+- [피보나치 함수](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/8%ED%9A%8C%EC%B0%A8_2022.06.29_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%ED%95%A8%EC%88%98.md)
+- 다익스트라, 벨먼-포드, 플로이드-와샬 발표 : [나연][yeon]
+    
 </div>
 </details>
 
