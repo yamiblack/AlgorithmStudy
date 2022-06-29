@@ -174,7 +174,7 @@
 
 
 <details>
-<summary>8회차 : 2022년 06월 30일 요일 20시</summary>
+<summary>8회차 : 2022년 06월 30일 목요일 20시</summary>
 <div markdown="1">
 
 - [바이러스](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/8%ED%9A%8C%EC%B0%A8_2022.06.29_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.md)
