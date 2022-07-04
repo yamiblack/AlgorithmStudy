@@ -18,6 +18,7 @@
 - [서기 정윤영][zeong]
 - [교수 이주형][hyung]
 - [조교 서예진][jin]
+- [총괄 김진산][san]
 
 <br />
 
@@ -186,8 +187,22 @@
 </div>
 </details>
 
+<details>
+<summary>9회차 : 2022년 07월 07일 목요일 20시</summary>
+<div markdown="1">
+
+- [최소비용 구하기](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/9%ED%9A%8C%EC%B0%A8_2022.07.06_%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B0.md)
+- [특정한 최단 거리](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/9%ED%9A%8C%EC%B0%A8_2022.07.06_%ED%8A%B9%EC%A0%95%ED%95%9C%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.md)
+- [플로이드](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/9%ED%9A%8C%EC%B0%A8_2022.07.06_%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C.md)
+- 벨먼-포드 발표 : [나연][yeon]
+- 프림, 크루스칼, 유니온파인드 : [지웅][woong]
+    
+</div>
+</details>
+
 [woong]:https://github.com/JIW00NG
 [yeon]:https://github.com/yeon97
 [zeong]:https://github.com/Zzeongyx2
 [hyung]:https://github.com/yamiblack
 [jin]:https://github.com/yejin25
+[san]:https://github.com/lazybones1
