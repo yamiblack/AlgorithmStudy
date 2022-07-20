@@ -212,6 +212,18 @@
 </div>
 </details>
 
+<details>
+<summary>11회차 : 2022년 07월 30일 수요일 20시</summary>
+<div markdown="1">
+
+- [별자리 만들기](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/10%ED%9A%8C%EC%B0%A8_2022.07.30_%EB%B3%84%EC%9E%90%EB%A6%AC%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+- [부분 문자열](https://github.com/yamiblack/AlgorithmStudy/blob/main/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%8A%A4%ED%84%B0%EB%94%94/10%ED%9A%8C%EC%B0%A8_2022.07.30_%EB%B6%80%EB%B6%84%20%EB%AC%B8%EC%9E%90%EC%97%B4.md)
+- 벨먼-포드 발표 : [나연][yeon]
+- 슬라이드 윈도우 : [서예진][jin]
+    
+</div>
+</details>
+
 [woong]:https://github.com/JIW00NG
 [yeon]:https://github.com/yeon97
 [zeong]:https://github.com/Zzeongyx2
